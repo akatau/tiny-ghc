@@ -1,9 +1,9 @@
 {- |
 Module      : Ourlude
 Description : A collection of utility functions and operators for tinyHaskell to C compilation.
-Copyright   : (c) Amr Farid Almorsi, 2024
-License     : BSD3
-Maintainer : amr.saleh@ejust.edu.eg
+Copyright   : (c) Amr Almorsi, 2024
+License     : GPLv3
+Maintainer : amrfalmorsi@gmail.com
 Stability   : experimental
 Portability : POSIX
 

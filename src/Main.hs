@@ -3,7 +3,7 @@
 {- |
 Module      : tinyGHC
 Description : Command Line Interface for the tinyGHC compiler.
-Copyright   : (c) Amr Farid Almorsi, 2024
+Copyright   : (c) Amr Almorsi, 2024
 License     : BSD3
 Maintainer : amr.saleh@ejust.edu.eg
 Stability   : experimental
