@@ -8,7 +8,7 @@
  \__|_|_| |_|\__, \____/\/ /_/\____/ 
              |___/                   
 ```
-tinyGHC is a Haskell-to-C compiler for a subset of Haskell (that I call [tinyHaskell](./docs/Formal%20Description%20of%20tinyHaskell)), fully written in Haskell.
+tinyGHC is a Haskell-to-C compiler for a subset of Haskell (that I call [tinyHaskell](./docs/Formal%20Description%20of%20tinyHaskell.md)), fully written in Haskell.
 
 The main objective of this project is to force myself to learn about or unlock many "mystery boxes" with one stone. 
 These "mystery boxers" mainly are:
