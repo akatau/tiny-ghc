@@ -57,5 +57,5 @@ These "mystery boxers" mainly are:
 ### Relevant Docs & Reports [^1]
 1. [Seminar Report (for college)](/docs/Seminar%20Report.md)
 2. [Seminar Presentation (for college)](/docs/Seminar%20Presentation.md)
-3. [Project-Based Learning Report (still a draft)](/docs/PBL%20Report%20Draft.pdf)
-[^1]: Most of them are Obsidian-flavored markdown.
+3. [Project-Based Learning Report (still a draft)](/docs/tinyGHC%20-%20Report.pdf)
+[^1]: Markdown files are Obsidian-flavored markdown.
